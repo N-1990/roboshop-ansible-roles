@@ -1,3 +1,10 @@
 MONGODB_HOST: mongodb.tsoftsolution.online
 REDIS_HOST: redis.tsoftsolution.online
+MYSQL_HOST: mysql.tsoftsolution.online
+RABBITMQ_HOST: rabbitmq.tsoftsolution.online
+USER_HOST: user.tsoftsolution.online
 CATALOGUE_HOST: catalogue.tsoftsolution.online
+CART_HOST: cart.tsoftsolution.online
+SHIPPING_HOST: shipping.tsoftsolution.online
+PAYMENT_HOST: payment.tsoftsolution.online
+DISPATCH_HOST: dispatch.tsoftsolution.online
