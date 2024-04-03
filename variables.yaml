@@ -1,2 +1,3 @@
 MONGODB_HOST: mongodb.tsoftsolution.online
 REDIS_HOST: redis.tsoftsolution.online
+CATALOGUE_HOST: catalogue.tsoftsolution.online
